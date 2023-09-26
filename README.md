@@ -5,3 +5,10 @@ Remotamente criadocom Readme.md e gitignore
 
 - Alteração 1
 - Alteração 2
+
+## Imagens
+    /Imagem
+
+
+## Documentação
+    /Documentacao
